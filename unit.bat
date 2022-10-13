@@ -1,1 +1,1 @@
-scho "JUnit Testing Successful"
+echo "JUnit Testing Successful"
